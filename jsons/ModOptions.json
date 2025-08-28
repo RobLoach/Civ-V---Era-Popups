@@ -1,0 +1,16 @@
+{
+	"isBaseRuleset": false,
+	"uniques": [
+		"Cannot be used as permanent audiovisual mod",
+
+        // Ignore warning about ExtraImages
+        "Suppress warning [(Event) Atomic era's civilopediaText line 1: extraImage not found as either atlas texture or in ExtraImages folder]",
+        "Suppress warning [(Event) Classical era's civilopediaText line 1: extraImage not found as either atlas texture or in ExtraImages folder]",
+        "Suppress warning [(Event) Future era's civilopediaText line 1: extraImage not found as either atlas texture or in ExtraImages folder]",
+        "Suppress warning [(Event) Industrial era's civilopediaText line 1: extraImage not found as either atlas texture or in ExtraImages folder]",
+        "Suppress warning [(Event) Information era's civilopediaText line 1: extraImage not found as either atlas texture or in ExtraImages folder]",
+        "Suppress warning [(Event) Medieval era's civilopediaText line 1: extraImage not found as either atlas texture or in ExtraImages folder]",
+        "Suppress warning [(Event) Modern era's civilopediaText line 1: extraImage not found as either atlas texture or in ExtraImages folder]",
+        "Suppress warning [(Event) Renaissance era's civilopediaText line 1: extraImage not found as either atlas texture or in ExtraImages folder]"
+	]
+}

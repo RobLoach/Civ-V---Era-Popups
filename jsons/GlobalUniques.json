@@ -1,0 +1,13 @@
+{
+    "name": "GlobalUniques",
+    "uniques": [
+        "Triggers a [Classical era] event <upon entering the [Classical era]>",
+        "Triggers a [Medieval era] event <upon entering the [Medieval era]>",
+        "Triggers a [Renaissance era] event <upon entering the [Renaissance era]>",
+        "Triggers a [Industrial era] event <upon entering the [Industrial era]>",
+        "Triggers a [Modern era] event <upon entering the [Modern era]>",
+        "Triggers a [Future era] event <upon entering the [Future era]>",
+        "Triggers a [Atomic era] event <upon entering the [Atomic era]>",
+        "Triggers a [Information era] event <upon entering the [Information era]>"
+    ]
+}

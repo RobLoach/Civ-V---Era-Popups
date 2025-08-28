@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Classical era",
+        "presentation": "Alert",
+        "civilopediaText": [
+            { "extraImage": "Eras/Classical", "centered": true },
+            {},
+            { "text": "Welcome to the [Classical era]!", "centered": true }
+        ],
+        "choices": [
+            { "text": "Close", "uniques": [] }
+        ]
+    },
+    {
+        "name": "Medieval era",
+        "presentation": "Alert",
+        "civilopediaText": [
+            { "extraImage": "Eras/Medieval", "centered": true },
+            {},
+            { "text": "Welcome to the [Medieval era]!", "centered": true }
+        ],
+        "choices": [
+            { "text": "Close", "uniques": [] }
+        ]
+    },
+    {
+        "name": "Renaissance era",
+        "presentation": "Alert",
+        "civilopediaText": [
+            { "extraImage": "Eras/Renaissance", "centered": true },
+            {},
+            { "text": "Welcome to the [Renaissance era]!", "centered": true }
+        ],
+        "choices": [
+            { "text": "Close", "uniques": [] }
+        ]
+    },
+    {
+        "name": "Industrial era",
+        "presentation": "Alert",
+        "civilopediaText": [
+            { "extraImage": "Eras/Industrial", "centered": true },
+            {},
+            { "text": "Welcome to the [Industrial era]!", "centered": true }
+        ],
+        "choices": [
+            { "text": "Close", "uniques": [] }
+        ]
+    },
+    {
+        "name": "Modern era",
+        "presentation": "Alert",
+        "civilopediaText": [
+            { "extraImage": "Eras/Modern", "centered": true },
+            {},
+            { "text": "Welcome to the [Modern era]!", "centered": true }
+        ],
+        "choices": [
+            { "text": "Close", "uniques": [] }
+        ]
+    },
+    {
+        "name": "Atomic era",
+        "presentation": "Alert",
+        "civilopediaText": [
+            { "extraImage": "Eras/Atomic", "centered": true },
+            {},
+            { "text": "Welcome to the [Atomic era]!", "centered": true }
+        ],
+        "choices": [
+            { "text": "Close", "uniques": [] }
+        ]
+    },
+    {
+        "name": "Information era",
+        "presentation": "Alert",
+        "civilopediaText": [
+            { "extraImage": "Eras/Information", "centered": true },
+            {},
+            { "text": "Welcome to the [Information era]!", "centered": true }
+        ],
+        "choices": [
+            { "text": "Close", "uniques": [] }
+        ]
+    },
+    {
+        "name": "Future era",
+        "presentation": "Alert",
+        "civilopediaText": [
+            { "extraImage": "Eras/Future", "centered": true },
+            {},
+            { "text": "Welcome to the [Future era]!", "centered": true }
+        ],
+        "choices": [
+            { "text": "Close", "uniques": [] }
+        ]
+    }
+]
