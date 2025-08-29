@@ -1,9 +1,16 @@
 # Civ V Era Popups for Unciv
 
-Provides a popup when transitioning to new Eras in [Unciv](https://github.com/yairm210/Civ-IV).
+Provides a popup when transitioning to new Eras in [Unciv](https://github.com/yairm210/Unciv).
 
 ![Screenshot of the Classical Era Popup](preview.png)
 
-## TODO
+## Features
 
-- [ ] Audio queues `SteamLibrary/steamapps/common/Sid Meier's Civilization V (G&K)/steamassets/assets/sounds/speech/english/era`
+- Displays a pop up whenever you transition through an Era
+- Plays the era audio clip
+
+## Installation
+
+- Search for Era Popups
+- Install it
+- Enable it when you start a new game
