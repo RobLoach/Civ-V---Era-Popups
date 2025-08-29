@@ -7,14 +7,7 @@
             {},
             { "text": "Welcome to the [Classical era]!", "centered": true }
         ],
-        "choices": [
-            {
-                "text": "Close",
-                "uniques": [
-                    "Play [Classical era2] sound"
-                ]
-            }
-        ]
+        "choices": [{"text": "Close", "uniques": []}]
     },
     {
         "name": "Medieval era",
@@ -24,14 +17,7 @@
             {},
             { "text": "Welcome to the [Medieval era]!", "centered": true }
         ],
-        "choices": [
-            {
-                "text": "Close",
-                "uniques": [
-                    "Play [Medieval era2] sound"
-                ]
-            }
-        ]
+        "choices": [{"text": "Close", "uniques": []}]
     },
     {
         "name": "Renaissance era",
@@ -41,14 +27,7 @@
             {},
             { "text": "Welcome to the [Renaissance era]!", "centered": true }
         ],
-        "choices": [
-            {
-                "text": "Close",
-                "uniques": [
-                    "Play [Renaissance era2] sound"
-                ]
-            }
-        ]
+        "choices": [{"text": "Close", "uniques": []}]
     },
     {
         "name": "Industrial era",
@@ -58,14 +37,7 @@
             {},
             { "text": "Welcome to the [Industrial era]!", "centered": true }
         ],
-        "choices": [
-            {
-                "text": "Close",
-                "uniques": [
-                    "Play [Industrial era2] sound"
-                ]
-            }
-        ]
+        "choices": [{"text": "Close", "uniques": []}]
     },
     {
         "name": "Modern era",
@@ -75,14 +47,7 @@
             {},
             { "text": "Welcome to the [Modern era]!", "centered": true }
         ],
-        "choices": [
-            {
-                "text": "Close",
-                "uniques": [
-                    "Play [Modern era2] sound"
-                ]
-            }
-        ]
+        "choices": [{"text": "Close", "uniques": []}]
     },
     {
         "name": "Atomic era",
@@ -92,14 +57,7 @@
             {},
             { "text": "Welcome to the [Atomic era]!", "centered": true }
         ],
-        "choices": [
-            {
-                "text": "Close",
-                "uniques": [
-                    "Play [Atomic era2] sound"
-                ]
-            }
-        ]
+        "choices": [{"text": "Close", "uniques": []}]
     },
     {
         "name": "Information era",
@@ -109,14 +67,7 @@
             {},
             { "text": "Welcome to the [Information era]!", "centered": true }
         ],
-        "choices": [
-            {
-                "text": "Close",
-                "uniques": [
-                    "Play [Information era2] sound"
-                ]
-            }
-        ]
+        "choices": [{"text": "Close", "uniques": []}]
     },
     {
         "name": "Future era",
@@ -126,13 +77,6 @@
             {},
             { "text": "Welcome to the [Future era]!", "centered": true }
         ],
-        "choices": [
-            {
-                "text": "Close",
-                "uniques": [
-                    "Play [Future era2] sound"
-                ]
-            }
-        ]
+        "choices": [{"text": "Close", "uniques": []}]
     }
 ]
