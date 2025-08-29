@@ -1,6 +1,17 @@
 {
     "name": "GlobalUniques",
     "uniques": [
+        // Sound
+        "Play [Classical era] sound <upon entering the [Classical era]>",
+        "Play [Medieval era] sound <upon entering the [Medieval era]>",
+        "Play [Renaissance era] sound <upon entering the [Renaissance era]>",
+        "Play [Industrial era] sound <upon entering the [Industrial era]>",
+        "Play [Modern era] sound <upon entering the [Modern era]>",
+        "Play [Future era] sound <upon entering the [Future era]>",
+        "Play [Atomic era] sound <upon entering the [Atomic era]>",
+        "Play [Information era] sound <upon entering the [Information era]>",
+
+        // Popup
         "Triggers a [Classical era] event <upon entering the [Classical era]>",
         "Triggers a [Medieval era] event <upon entering the [Medieval era]>",
         "Triggers a [Renaissance era] event <upon entering the [Renaissance era]>",
